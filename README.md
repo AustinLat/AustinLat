@@ -1,4 +1,5 @@
-### Hi there 👋
+## BIO
+Hi, I'm Austin.  I had a passion for technology in high school in the late 90s.  Creating web pages and exploring every little nook and cranny I could find on the internet.  After I graduated high school in 2001, I joined the Marine Corps.  unfortunately, I lost my passion and curiosity for technology over the next 6 years while in the Marine Corps.  Fast forward 15 years, and I am currently a foreman for a cell phone tower climbing crew. In May of 2021, I decided to learn coding.  I was instantly hooked, and it has become a bit of an obsession.  I spend almost all of my free time learning and practicing.  I began with Python and HTML with the idea of working in web development. After switching to Linux, and discovering the power of the command line and VIM, I focused on Bash scripting, then Golang.  The combination of Go and Bash I have found to be very powerful, and I hope to use these skills to someday (hopefully sooner than later) begin a new career in back end.
 
 <!--
 **AustinLat/AustinLat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
